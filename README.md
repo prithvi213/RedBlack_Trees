@@ -1,4 +1,4 @@
-## Programming Assignment 8
+## Red Black Trees
 In this programming assignment, I used the Dictionary ADT to implement Red-Black Trees. It has 
 the same operations as a Dictionary, except that the tree is always near balanced after every
 insertion and deletion operation. It is also able to ensure that the red and black node
